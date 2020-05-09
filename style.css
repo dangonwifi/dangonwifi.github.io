@@ -56,7 +56,8 @@ header {
     background-image: url(images/BG3.png);}
 section.courses {
     float: center;
-    width: 950px;}
+    width: 950px;
+    font-size: 10px;}}
 article {
     clear: both;
     overflow: auto;
