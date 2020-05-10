@@ -26,7 +26,7 @@ ul > li {
 ul > li > a {
     text-decoration: none;
     color: #ffffff;
-    background: rgb(9, 149, 126);
+    background: rgb(#0ec89e);
     padding: 10px 88px;
     border-radius: 12px;
 }
@@ -47,7 +47,7 @@ ol > li {
 ol > li > a {
     text-decoration: none;
     color: #ffffff;
-    background: rgb(9, 149, 126);
+    background: rgb(#0ec89e);
     padding: 0px 10px;
     border-radius: 12px;
 }
