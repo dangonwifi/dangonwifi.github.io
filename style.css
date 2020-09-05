@@ -65,7 +65,7 @@ header {
     background-image: url(images/BG3.png);}
 section.courses {
     float: left;
-    width: 699px;
+    width: 698px;
     border-right: 1px solid #eeeeee;}
 article {
     font-size: 13px;
@@ -92,7 +92,7 @@ figcaption {
     font-size: 20px;
     text-align: left;}
 aside {
-    width: 230px;
+    width: 21%;
     float: left;
     padding: 0px 0px 0px 20px;}
 aside section a {
